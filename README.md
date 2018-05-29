@@ -17,3 +17,7 @@ To start up RStudio in the browser, run the following command (from the root of 
 ``` sh
 docker run --rm -d -t -v $(pwd):/home/rstudio -p 8787:8787 presentations
 ```
+
+## Hosting
+
+The presentations can be hosted on GitHub of course. The blank presentation can be found [here](https://stevelane.github.io/blank-presentations/blank-presentation/)
